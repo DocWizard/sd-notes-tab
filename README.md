@@ -1,5 +1,5 @@
 # sd-notes-tab
-This is an extremely simple stable-diffusion-webui notes extension. It adds an extra 'notes' tab to your Auto1111 installation, letting you permanently store whatever important notes you want to keep.
+This is an extremely simple stable-diffusion-webui notes extension. It adds an extra 'notes' tab to your A1111 installation, letting you permanently store whatever important notes you want to keep.
 
 # Installation
 
