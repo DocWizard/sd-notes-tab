@@ -11,7 +11,7 @@ Alternatively, go to "Install from URL", then paste 'https://github.com/DocWizar
 
 Simply navigate to the Notes tab at the top of your A1111 UI.
 
-[overview.png](https://postimg.cc/rDRJXK9B)
+![image](https://i.postimg.cc/kgfhSSRg/overview.png)
 
 Your notes are saved automatically as soon as the textbox loses focus. They are stored in the extension's main directory (typically ./extensions/sd-notes-tab/)
 
