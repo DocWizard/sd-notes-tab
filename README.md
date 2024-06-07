@@ -15,3 +15,6 @@ Simply navigate to the Notes tab at the top of your A1111 UI.
 
 Your notes are saved automatically as soon as the textbox loses focus. They are stored in the extension's main directory (typically ./extensions/sd-notes-tab/)
 
+# Disclaimer
+
+I am not a dev. This extension was written with the assistance of an LLM. If you have any ideas on how to improve it - let me know, and I'll do my best. Better yet, make a PR :)
